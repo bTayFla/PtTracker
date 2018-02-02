@@ -5,11 +5,6 @@ Purchase / Questions / Feedback: Reach out on Telegram: https://t.me/pt_tracker
 
 <a href="https://ibb.co/msHzPR"><img src="https://preview.ibb.co/dQk8Jm/Screenshot_2018_02_01_00_45_08.jpg" alt="Screenshot_2018_02_01_00_45_08" border="0"></a>
 
-<h1>Pricing / Purchasing Info</h1>
-0.003 BTC or 0.2 LTC (Send enough overage to cover your transfer fee)
-
-Message https://t.me/pt_tracker on Telegram. I will reply with the payment address. Once payment is confirmed, I will message your back your license key.
-
 <h1>Installing PtTracker</h1>
 
 1. Save files in your ProfitTrailer Folder. (Same folder as application.properties)
@@ -24,6 +19,13 @@ Message https://t.me/pt_tracker on Telegram. I will reply with the payment addre
 1. Open Mongoose (exe file) in your ProfitTrailer folder. This will open your browser.
 
 2. Click "PtTracker.htm" in the list.
+
+
+<h1>Pricing / Purchasing Info</h1>
+0.003 BTC or 0.2 LTC (Send enough overage to cover your transfer fee)
+
+Message https://t.me/pt_tracker on Telegram. I will reply with the payment address. Once payment is confirmed, I will message your back your license key.
+
 
 
 <h1>Feel free to donate</h1>
