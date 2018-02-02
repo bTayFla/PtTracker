@@ -3,11 +3,6 @@ A ProfitTrailer addon that uses PT data files to automatically track your daily 
 
 <a href="https://ibb.co/msHzPR"><img src="https://preview.ibb.co/dQk8Jm/Screenshot_2018_02_01_00_45_08.jpg" alt="Screenshot_2018_02_01_00_45_08" border="0"></a>
 
-<h1>Purchase / Questions / Feedback:</h1>
-Discord: btayfla#0063
-
-Telegram: https://t.me/pt_tracker
-
 <h1>Installing PtTracker</h1>
 
 1. Save files in your ProfitTrailer Folder. (Same folder as application.properties)
@@ -23,11 +18,15 @@ Telegram: https://t.me/pt_tracker
 
 2. Click "PtTracker.htm" in the list.
 
-
 <h1>Pricing / Purchasing Info</h1>
 0.003 BTC or 0.2 LTC (Send enough overage to cover your transfer fee)
 
-Message https://t.me/pt_tracker on Telegram. I will reply with the payment address. Once payment is confirmed, I will message your back your license key.
+Message me on Telegram or Discord. I will reply with the payment address. Once payment is confirmed, I will message your back your license key.
+
+<h1>Purchase / Questions / Feedback:</h1>
+Discord: btayfla#0063
+
+Telegram: https://t.me/pt_tracker
 
 
 
