@@ -1,13 +1,12 @@
 # pttracker
 A ProfitTrailer addon that uses PT data files to automatically track your daily and monthly profits in real time.
 
+<a href="https://ibb.co/msHzPR"><img src="https://preview.ibb.co/dQk8Jm/Screenshot_2018_02_01_00_45_08.jpg" alt="Screenshot_2018_02_01_00_45_08" border="0"></a>
 
 <h1>Purchase / Questions / Feedback:</h1>
 Discord: btayfla#0063
 
 Telegram: https://t.me/pt_tracker
-
-<a href="https://ibb.co/msHzPR"><img src="https://preview.ibb.co/dQk8Jm/Screenshot_2018_02_01_00_45_08.jpg" alt="Screenshot_2018_02_01_00_45_08" border="0"></a>
 
 <h1>Installing PtTracker</h1>
 
