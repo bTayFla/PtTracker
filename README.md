@@ -4,11 +4,9 @@ A ProfitTrailer addon that uses PT data files to automatically track your daily 
 <a href="https://ibb.co/msHzPR"><img src="https://preview.ibb.co/dQk8Jm/Screenshot_2018_02_01_00_45_08.jpg" alt="Screenshot_2018_02_01_00_45_08" border="0"></a>
 
 <h1>Installing PtTracker</h1>
-1. Save files in your ProfitTrailer Folder. (Same folder as application.properties)
-
+1. Save files in your ProfitTrailer Folder. (Same folder as application.properties)<br>
 2. Open PtTracker.properties in a text editor, add your username, license key, details, and then save.
-(Note: Your license key has single user access. If you give it to someone else, your tracker will no longer work.)
-
+(Note: Your license key has single user access. If you give it to someone else, your tracker will no longer work.)<br>
 3. (skip this step if you want to run your own local webserver) <a href="https://cesanta.com/binary.html">Download Mongoose (Windows)</a> and place the .exe file in the same folder. Run Mongoose.exe
 
 <h1>Running PtTracker</h1>
@@ -16,22 +14,17 @@ A ProfitTrailer addon that uses PT data files to automatically track your daily 
 2. When your browser opens, click "PtTracker.html".
 
 <h1>Purchasing</h1>
-1. Message me on Discord or Telegram. I will reply with the payment address.
-
-2. Send 0.003 BTC or 0.2 LTC (Send enough to cover your transfer fee)
-
+1. Message me on Discord or Telegram. I will reply with the payment address.<br>
+2. Send 0.003 BTC or 0.2 LTC (Send enough to cover your transfer fee)<br>
 3. Once payment is confirmed, I will send your license key.
 
 <h1>Contact</h1>
-Discord: btayfla#0063
-
+Discord: btayfla#0063<br>
 Telegram: https://t.me/pt_tracker
 
 
 
 <h1>Feel free to donate</h1>
-And let me know on discord or telegram if you do so I can thank you!
-
-BTC/LTC: 13EUZ5juobs1XfZW6Ad3QTkbhvchsKbbJN
-
+And let me know on discord or telegram if you do so I can thank you!<br>
+BTC/LTC: 13EUZ5juobs1XfZW6Ad3QTkbhvchsKbbJN<br>
 ETH: 0xAcc1416387B7C3f9AF0E93A9583C95EB441dDD6
