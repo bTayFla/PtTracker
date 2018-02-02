@@ -19,7 +19,7 @@ A ProfitTrailer addon that uses PT data files to automatically track your daily 
 2. When your browser opens, click "PtTracker.html".
 
 <h1>Pricing / Purchasing Info</h1>
-0.003 BTC or 0.2 LTC (Send enough overage to cover your transfer fee)
+0.003 BTC or 0.2 LTC (Send enough to cover your transfer fee)
 
 Message me on Discord or Telegram. I will reply with the payment address. Once payment is confirmed, I will send your license key.
 
