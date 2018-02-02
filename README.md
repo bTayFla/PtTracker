@@ -14,9 +14,9 @@ A ProfitTrailer addon that uses PT data files to automatically track your daily 
 
 <h1>Running PtTracker</h1>
 
-1. Open Mongoose (exe file) in your ProfitTrailer folder. This will open your browser.
+1. Open Mongoose (exe file) in your ProfitTrailer folder.
 
-2. Click "PtTracker.htm" in the list.
+2. When your browser opens, click "PtTracker.html".
 
 <h1>Pricing / Purchasing Info</h1>
 0.003 BTC or 0.2 LTC (Send enough overage to cover your transfer fee)
