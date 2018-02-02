@@ -26,7 +26,7 @@ A ProfitTrailer addon that uses PT data files to automatically track your daily 
 
 3. Once payment is confirmed, I will send your license key.
 
-<h1>Purchase / Questions / Feedback:</h1>
+<h1>Contact</h1>
 Discord: btayfla#0063
 
 Telegram: https://t.me/pt_tracker
