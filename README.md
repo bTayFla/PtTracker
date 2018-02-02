@@ -34,7 +34,6 @@ Telegram: https://t.me/pt_tracker
 
 
 <h1>Feel free to donate</h1>
-
 And let me know on discord or telegram if you do so I can thank you!
 
 BTC/LTC: 13EUZ5juobs1XfZW6Ad3QTkbhvchsKbbJN
