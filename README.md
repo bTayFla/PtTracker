@@ -21,7 +21,7 @@ A ProfitTrailer addon that uses PT data files to automatically track your daily 
 <h1>Pricing / Purchasing Info</h1>
 0.003 BTC or 0.2 LTC (Send enough overage to cover your transfer fee)
 
-Message me on Telegram or Discord. I will reply with the payment address. Once payment is confirmed, I will message your back your license key.
+Message me on Discord or Telegram. I will reply with the payment address. Once payment is confirmed, I will send your license key.
 
 <h1>Purchase / Questions / Feedback:</h1>
 Discord: btayfla#0063
