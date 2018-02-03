@@ -1,7 +1,7 @@
 # pttracker
 A ProfitTrailer addon that uses PT data files to automatically track your daily and monthly profits in real time.
 
-<a href="https://ibb.co/msHzPR"><img src="https://preview.ibb.co/dQk8Jm/Screenshot_2018_02_01_00_45_08.jpg" alt="Screenshot_2018_02_01_00_45_08" border="0"></a>
+<a href="https://ibb.co/iYGJR6"><img src="https://preview.ibb.co/d1UuzR/Screenshot_2018_02_03_12_19_08.jpg" alt="Screenshot_2018_02_03_12_19_08" border="0"></a>
 
 <h1>Installing PtTracker</h1>
 1. Save files in your ProfitTrailer Folder. (Same folder as application.properties)<br>
