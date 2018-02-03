@@ -15,7 +15,10 @@ Open Mongoose (exe file) in your ProfitTrailer folder.
 
 <h1>Running PtTracker (Other)</h1>
 
-Configure your webserver to use your ProfitTrailer folder as webroot directory. Access with: http://localhost/PtTracker.html
+Configure your webserver to serve your ProfitTrailer folder as webroot directory locally.
+Access with: http://localhost/PtTracker.html
+If you decide to serve it publicly to view PtTracker remotely, make sure you add an <a href="http://www.htaccesstools.com/htpasswd-generator/">htaccess file</a> for security.
+
 
 <h1>Purchasing</h1>
 1. Message me on Discord or Telegram. I will reply with the payment address.<br>
