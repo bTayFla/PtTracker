@@ -9,9 +9,13 @@ A ProfitTrailer addon that uses PT data files to automatically track your daily 
 (Note: Your license key has single user access. If you give it to someone else, your tracker will no longer work.)<br>
 3. (skip this step if you want to run your own local webserver) <a href="https://cesanta.com/binary.html">Download Mongoose (Windows)</a> and place the .exe file in the same folder. Run Mongoose.exe
 
-<h1>Running PtTracker</h1>
-1. Open Mongoose (exe file) in your ProfitTrailer folder.<br>
-2. When your browser opens, click "PtTracker.html".
+<h1>Running PtTracker (Windows)</h1>
+
+Open Mongoose (exe file) in your ProfitTrailer folder.
+
+<h1>Running PtTracker (Other)</h1>
+
+Point your webserver to your ProfitTrailer folder. Access with: http://localhost/PtTracker.html
 
 <h1>Purchasing</h1>
 1. Message me on Discord or Telegram. I will reply with the payment address.<br>
