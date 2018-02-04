@@ -27,7 +27,7 @@ If you decide to serve it publicly to view PtTracker remotely, make sure you add
 
 <h1>Purchasing</h1>
 1. Message me on Discord or Telegram. I will reply with the payment address.<br>
-2. Send 0.003 BTC or 0.2 LTC (Send enough to cover your transfer fee)<br>
+2. Send 0.005 BTC or 0.3 LTC (Send enough to cover your transfer fee)<br>
 3. Once payment is confirmed, I will send your license key.
 
 <h1>Contact</h1>
