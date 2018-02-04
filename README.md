@@ -28,6 +28,8 @@ This will start a web server that hosts your entire directory, which will be mad
 
 This approach is built in to any Python installation.
 
+Point your browser to: http://localhost:8000/PtTracker.html
+
 <h2>Python 3</h2>
 Do the same steps, but use the following command instead python3 -m http.server
 
@@ -45,12 +47,16 @@ This spins up a Node.js httpd which serves the files in your directory as static
 <h2>Ruby</h2>
 If your preferred language is Ruby ... the Ruby Gods say this works as well:
 
-ruby -run -e httpd . -p 8080
+ruby -run -e httpd . -p 8000
+
+Point your browser to: http://localhost:8000/PtTracker.html
 
 <h2>PHP</h2>
 Of course PHP also has its solution.
 
 php -S localhost:8000
+
+Point your browser to: http://localhost:8000/PtTracker.html
 
 <h1>Running PtTracker using your own web server (Any OS)</h1>
 
