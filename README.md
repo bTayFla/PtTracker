@@ -15,7 +15,6 @@ Open Mongoose (exe file) in your ProfitTrailer folder.<br>
 (Mongoose is a standalone web server. Block port 8084 in your firewall for security)
 
 <h1>Running PtTracker (Linux)</h1>
-For security, make sure you add an <a href="http://www.htaccesstools.com/htpasswd-generator/">htaccess file</a> to your profitTrailer folder.
 
 <h2>Python 2</h2>
 If you have Python installed...
