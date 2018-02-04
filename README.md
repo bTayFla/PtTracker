@@ -15,15 +15,16 @@ Open Mongoose (exe file) in your ProfitTrailer folder.<br>
 (Mongoose is a standalone web server. Block port 8084 in your firewall for security)
 
 <h1>Running PtTracker (Linux)</h1>
+For security, make sure you add an <a href="http://www.htaccesstools.com/htpasswd-generator/">htaccess file</a> to your profitTrailer folder.
 
 <h2>Python 2</h2>
 If you have Python installed...
 
-Change directory into the folder where your file some.html or file(s) exist using the command cd /path/to/your/folder
+Change directory into the ProfitTrailer folder using the command cd /path/to/your/folder
 
 Start up a Python web server using the command python -m SimpleHTTPServer
 
-This will start a web server that hosts your entire directory listing, which will be made accessible through the following URL: http://localhost:8000
+This will start a web server that hosts your entire directory, which will be made accessible through the following URL: http://localhost:8000 
 
 This approach is built in to any Python installation.
 
@@ -35,7 +36,7 @@ Alternatively, if you demand a more responsive setup and already use nodejs...
 
 Install http-server by typing npm install -g http-server
 
-Change into your working directory, where yoursome.html lives
+Change into your Profit Trailer folder
 
 Start your http server by issuing http-server -c-1
 
