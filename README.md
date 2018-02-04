@@ -16,46 +16,7 @@ Open Mongoose (exe file) in your ProfitTrailer folder.<br>
 
 <h1>Running PtTracker (Linux)</h1>
 
-<h2>Python 2</h2>
-If you have Python installed...
-
-Change directory into the ProfitTrailer folder using the command cd /path/to/your/folder
-
-Start up a Python web server using the command python -m SimpleHTTPServer
-
-This will start a web server that hosts your entire directory, which will be made accessible through the following URL: http://localhost:8000 
-
-This approach is built in to any Python installation.
-
-Point your browser to: http://localhost:8000/PtTracker.html
-
-<h2>Python 3</h2>
-Do the same steps, but use the following command instead python3 -m http.server
-
-<h2>Node.js</h2>
-Alternatively, if you demand a more responsive setup and already use nodejs...
-
-Install http-server by typing npm install -g http-server
-
-Change into your Profit Trailer folder
-
-Start your http server by issuing http-server -c-1
-
-This spins up a Node.js httpd which serves the files in your directory as static files accessible from http://localhost:8080
-
-<h2>Ruby</h2>
-If your preferred language is Ruby ... the Ruby Gods say this works as well:
-
-ruby -run -e httpd . -p 8000
-
-Point your browser to: http://localhost:8000/PtTracker.html
-
-<h2>PHP</h2>
-Of course PHP also has its solution.
-
-php -S localhost:8000
-
-Point your browser to: http://localhost:8000/PtTracker.html
+Coming soon
 
 <h1>Running PtTracker using your own web server (Any OS)</h1>
 
