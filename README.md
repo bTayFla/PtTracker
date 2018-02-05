@@ -34,7 +34,7 @@ Point your browser to: http://localhost:8000/PtTracker.html
 <h2>Python 3</h2>
 Do the same steps, but use the following command instead python3 -m http.server
 
-
+<h2>Security</h2>
 For extra security, you can block port 8084 in your firewall
 
 <h1>Running PtTracker using your own web server (Any OS)</h1>
