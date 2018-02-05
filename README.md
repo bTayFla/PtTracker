@@ -18,6 +18,25 @@ Open Mongoose (exe file) in your ProfitTrailer folder.<br>
 
 Coming soon
 
+<h1>Running PtTracker (Raspberry Pi)</h1>
+<h2>Python 2</h2>
+
+Change directory into the ProfitTrailer folder using the command cd /path/to/your/folder
+
+Start up a Python web server using the command python -m SimpleHTTPServer
+
+This will start a web server that hosts your entire directory, which will be made accessible through the following URL: http://localhost:8000/ 
+
+This approach is built in to any Python installation.
+
+Point your browser to: http://localhost:8000/PtTracker.html
+
+<h2>Python 3</h2>
+Do the same steps, but use the following command instead python3 -m http.server
+
+
+For extra security, you can block port 8084 in your firewall
+
 <h1>Running PtTracker using your own web server (Any OS)</h1>
 
 Configure your webserver to serve your ProfitTrailer folder as webroot directory locally.<br>
