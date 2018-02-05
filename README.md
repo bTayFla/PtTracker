@@ -23,10 +23,10 @@ Open Mongoose (exe file) in your ProfitTrailer folder.<br>
 3. Create a shell script to copy your Profit Trailer data to web root
 ```
 #!/bin/sh<br>
-rm /var/www/html/ProfitTrailerData.json<br>
-cd /home/profitTrailer<br>
-cp /home/profitTrailer/ProfitTrailerData.json /var/www/html/ProfitTrailerData.json<br>
-cd /var/www/html<br>
+rm /var/www/html/ProfitTrailerData.json
+cd /home/profitTrailer
+cp /home/profitTrailer/ProfitTrailerData.json /var/www/html/ProfitTrailerData.json
+cd /var/www/html
 chown www-data:www-data /var/www/html/ProfitTrailerData.json
 ```
 4. Setup crontab to run the shell script every 60 seconds
