@@ -21,11 +21,11 @@ Open Mongoose (exe file) in your ProfitTrailer folder.<br>
 
 <h1>Running PtTracker (Linux)</h1>
 
-1. Install Apache https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04
+<h2>1. Install Apache</h2> https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04
 
-2. Move PtTracker.html and PtTracker.json to your web root (/var/www/html)
+<h2>2. Move PtTracker.html and PtTracker.json to your web root (/var/www/html)</h2>
 
-3. Create a shell script to copy your Profit Trailer data to web root
+<h2>3. Create a shell script to copy your Profit Trailer data to web root</h2>
 ```
 #!/bin/sh
 rm /var/www/html/ProfitTrailerData.json
@@ -35,8 +35,8 @@ cd /var/www/html
 chown www-data:www-data /var/www/html/ProfitTrailerData.json
 ```
 
-4. Setup crontab to run script every three minutes.<br>
-Give full permission: sudo chmod ```a+x myscript.sh```<br>
+<h2>4. Setup crontab to run script every three minutes.</h2>
+Give full permission: ```sudo chmod a+x myscript.sh```<br>
 Edit crontab: ```crontab -e command```<br>
 Add a new line: ``` */3 * * * * /var/www/html/myscript.sh```<br>
 
