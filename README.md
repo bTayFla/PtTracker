@@ -46,15 +46,15 @@ Add a new line: ``` */3 * * * * /var/scripts/myscript.sh```<br>
 <h1>Running PtTracker (Raspberry Pi)</h1>
 <h2>Python 2</h2>
 
-Change directory into the ProfitTrailer folder using the command cd /path/to/your/folder
+Change directory into the ProfitTrailer folder using the command ```cd /path/to/your/ProfitTrailer```
 
-Start up a Python web server using the command python -m SimpleHTTPServer
+Start up a Python web server using the command ```python -m SimpleHTTPServer 8084```
 
-This will start a web server that hosts your entire directory, which will be made accessible through the following URL: http://localhost:8000/ 
+This will start a web server that hosts your entire directory, which will be made accessible through the following URL: http://localhost:8084/ 
 
 This approach is built in to any Python installation.
 
-Point your browser to: http://localhost:8000/PtTracker.html
+Point your browser to: http://localhost:8084/PtTracker.html
 
 <h2>Python 3</h2>
 Do the same steps, but use the following command instead python3 -m http.server
@@ -66,8 +66,6 @@ For extra security, you can block port 8084 in your firewall and add authenticat
 
 Configure your webserver to serve your ProfitTrailer folder as webroot directory locally.<br>
 Access with: http://localhost/PtTracker.html<br>
-If you decide to serve it publicly to view PtTracker remotely, make sure you add an <a href="http://www.htaccesstools.com/htpasswd-generator/">htaccess file</a> for security.
-
 
 <h1>Purchasing</h1>
 1. Message me on Discord or Telegram. I will reply with the payment address.<br>
