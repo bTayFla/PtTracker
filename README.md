@@ -34,7 +34,10 @@ cp /home/profitTrailer/ProfitTrailerData.json /var/www/html/ProfitTrailerData.js
 cd /var/www/html
 chown www-data:www-data /var/www/html/ProfitTrailerData.json
 ```
-4. Setup crontab to run the shell script every 60 seconds
+4. Setup crontab to run script every three minutes.
+Give full permission: sudo chmod ```a+x myscript.sh```
+Edit crontab: ```crontab -e command```
+Add a new line: ``` */3 * * * * /var/www/html/myscript.sh```
 
 5. Access PtTracker at http://{YourIp}/PtTracker.html
 
