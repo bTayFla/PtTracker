@@ -24,7 +24,9 @@ Yes, PtTracker is simply an html file and works by reading the ProfitTrailerData
 
 2. Move PtTracker.html and PtTracker.json to your web root (/var/www/html)
 
-3. Create a shell script to copy your Profit Trailer data to web root
+3. Create a shell script to copy your Profit Trailer data to web root: ```nano /var/scripts/myscript.sh```
+
+Add the following lines
 ```
 #!/bin/sh
 rm /var/www/html/ProfitTrailerData.json
@@ -35,9 +37,9 @@ chown www-data:www-data /var/www/html/ProfitTrailerData.json
 ```
 
 4. Setup crontab to run script every three minutes.<br>
-Give full permission: ```sudo chmod a+x myscript.sh```<br>
+Give full permission: ```sudo chmod a+x /var/scripts/myscript.sh```<br>
 Edit crontab: ```crontab -e command```<br>
-Add a new line: ``` */3 * * * * /var/www/html/myscript.sh```<br>
+Add a new line: ``` */3 * * * * /var/scripts/myscript.sh```<br>
 
 5. Access PtTracker at http://{YourIp}/PtTracker.html
 
