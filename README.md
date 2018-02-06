@@ -50,14 +50,12 @@ Change directory into the ProfitTrailer folder using the command ```cd /path/to/
 
 Start up a Python web server using the command ```python -m SimpleHTTPServer 8084```
 
-This will start a web server that hosts your entire directory, which will be made accessible through the following URL: http://localhost:8084/ 
+This will start a web server that hosts PtTracker, which will be made accessible through the following URL: http://localhost:8084/PtTracker.html OR http://{YourServerIp}:8084/PtTracker.html
 
 This approach is built in to any Python installation.
 
-Point your browser to: http://localhost:8084/PtTracker.html
-
 <h2>Python 3</h2>
-Do the same steps, but use the following command instead python3 -m http.server
+Do the same steps, but use the following command instead ```python3 -m http.server 8084```
 
 <h2>Security</h2>
 For extra security, you can block port 8084 in your firewall and add authentication using: https://github.com/tianhuil/SimpleHTTPAuthServer
