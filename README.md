@@ -10,8 +10,7 @@ PtTracker is simply an html file and works by reading the ProfitTrailerData.json
 1. Save files in your ProfitTrailer Folder. (Same folder as application.properties)<br>
 2. Open PtTracker.json in a text editor, add your username, license key, starting value, and then save.
 (Note: Your license key has single user access. If you give it to someone else, your tracker will no longer work.)<br>
-
-
+<br>
 <b>StartingValue</b> is the balance you started with when you first purchased the bot and is needed to calculate your current balances. If you do not update this, your balances will not be accurate. PtTracker does not have access to your api keys that would be needed to get this data automatically.
 
 <h1>Running PtTracker using Mongoose (Windows) </h1>
