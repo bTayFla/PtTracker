@@ -1,7 +1,7 @@
 # PtTracker - Profit Trailer Tracking Addon
 PtTracker is a ProfitTrailer addon that uses the bot trading data to automatically track your daily and monthly profits in real time.
 
-<a href="https://ibb.co/iYGJR6"><img src="https://preview.ibb.co/d1UuzR/Screenshot_2018_02_03_12_19_08.jpg" alt="Screenshot_2018_02_03_12_19_08" border="0"></a>
+<a href="https://ibb.co/dRukJx"><img src="https://preview.ibb.co/mtRbQc/Screenshot_2018_02_06_12_30_41.jpg" alt="Screenshot_2018_02_06_12_30_41" border="0"></a>
 
 <h1>Security</h1>
 PtTracker is simply an html file and works by reading the ProfitTrailerData.json file created by ProfitTrailer. Since this file only contains bot trading data, PtTracker is safe, secure, and does not access or use any api keys or other sensitive information.
