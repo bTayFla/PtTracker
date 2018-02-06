@@ -3,8 +3,8 @@ PtTracker is a ProfitTrailer addon that uses the bot trading data to automatical
 
 <a href="https://ibb.co/iYGJR6"><img src="https://preview.ibb.co/d1UuzR/Screenshot_2018_02_03_12_19_08.jpg" alt="Screenshot_2018_02_03_12_19_08" border="0"></a>
 
-<h1>Is my data safe?</h1>
-Yes, PtTracker is simply an html file and works by reading the ProfitTrailerData.json file created by ProfitTrailer. This file only contains bot trading data. The PtTracker.html source code is readable in any text editor and does not access or use any api keys or other sensitive information.
+<h1>Security</h1>
+PtTracker is simply an html file and works by reading the ProfitTrailerData.json file created by ProfitTrailer. Since this file only contains bot trading data, PtTracker is safe, secure, and does not access or use any api keys or other sensitive information.
 
 <h1>Installing PtTracker</h1>
 1. Extract the PtTracker.zip files into your ProfitTrailer Folder. (Same folder as application.properties)<br>
