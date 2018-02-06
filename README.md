@@ -70,7 +70,7 @@ Access with: http://localhost/PtTracker.html<br>
 2. Send 0.005 BTC or 0.3 LTC (Send enough to cover your transfer fee)<br>
 3. Once payment is confirmed, I will send your license key.
 
-<h1>Contact</h1>
+<h1>Contact / Support</h1>
 Discord: btayfla#0063<br>
 Telegram: https://t.me/pt_tracker
 
