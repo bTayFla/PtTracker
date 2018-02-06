@@ -3,15 +3,15 @@ A ProfitTrailer addon that uses PT data files to automatically track your daily 
 
 <a href="https://ibb.co/iYGJR6"><img src="https://preview.ibb.co/d1UuzR/Screenshot_2018_02_03_12_19_08.jpg" alt="Screenshot_2018_02_03_12_19_08" border="0"></a>
 
-<h1>Purchasing</h1>
-1. Message me on Discord or Telegram. I will reply with the payment address.<br>
-2. Send 0.005 BTC or 0.3 LTC (Send enough to cover your transfer fee)<br>
-3. Once payment is confirmed, I will send your license key.
+<h1>Is it safe?</h1>
+PtTracker is simply an html file and works by reading the ProfitTrailerData.json file created by ProfitTrailer. This file only contains bot trading data. The html source code is readable in any text editor and does not access or use any api keys or other sensitive information.
 
 <h1>Installing PtTracker</h1>
 1. Save files in your ProfitTrailer Folder. (Same folder as application.properties)<br>
 2. Open PtTracker.json in a text editor, add your username, license key, starting value, and then save.
 (Note: Your license key has single user access. If you give it to someone else, your tracker will no longer work.)<br>
+
+StartingValue is the balance you started with when you first purchased the bot and is needed to calculate your current balances. If you do not update this, your balances will not be accurate. PtTracker does not have access to your api keys that would be needed to get this data automatically.
 
 <h1>Running PtTracker using Mongoose (Windows) </h1>
 1. <a href="https://cesanta.com/binary.html">Download Mongoose (Windows)</a> and place the .exe file in the same folder.<br>
@@ -66,11 +66,15 @@ Configure your webserver to serve your ProfitTrailer folder as webroot directory
 Access with: http://localhost/PtTracker.html<br>
 If you decide to serve it publicly to view PtTracker remotely, make sure you add an <a href="http://www.htaccesstools.com/htpasswd-generator/">htaccess file</a> for security.
 
+
+<h1>Purchasing</h1>
+1. Message me on Discord or Telegram. I will reply with the payment address.<br>
+2. Send 0.005 BTC or 0.3 LTC (Send enough to cover your transfer fee)<br>
+3. Once payment is confirmed, I will send your license key.
+
 <h1>Contact</h1>
 Discord: btayfla#0063<br>
 Telegram: https://t.me/pt_tracker
-
-
 
 <h1>Donate</h1>
 And let me know on discord or telegram if you do so I can thank you!<br>
