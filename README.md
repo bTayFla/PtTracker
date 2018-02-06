@@ -7,15 +7,15 @@ PtTracker is a ProfitTrailer addon that uses the bot trading data to automatical
 Yes, PtTracker is simply an html file and works by reading the ProfitTrailerData.json file created by ProfitTrailer. This file only contains bot trading data. The PtTracker.html source code is readable in any text editor and does not access or use any api keys or other sensitive information.
 
 <h1>Installing PtTracker</h1>
-1. Save the files in your ProfitTrailer Folder. (Same folder as application.properties)<br>
+1. Extract the PtTracker.zip files into your ProfitTrailer Folder. (Same folder as application.properties)<br>
 2. Open PtTracker.json in a text editor, add your username, license key, starting value, and then save.
 (Note: Your license key has single user access. If you give it to someone else, your tracker will no longer work.)<br>
 <br>
 <b>StartingValue</b> is the balance you started with when you first purchased the bot and is needed to calculate your current balances. If you do not update this, your balances will not be accurate. PtTracker does not have access to your api keys that would be needed to get this data automatically.
 
 <h1>Running PtTracker using Mongoose (Windows) </h1>
-1. <a href="https://cesanta.com/binary.html">Download Mongoose (Windows)</a> and place the .exe file in the same folder.<br>
-2. Open Mongoose (Double click exe file) in your ProfitTrailer folder.<br>
+1. After extracting the zip file, <a href="https://cesanta.com/binary.html">Download Mongoose (Windows)</a> and place the .exe file in your ProfitTrailer Folder.<br>
+2. Open Mongoose (Double click exe file)<br>
 (Mongoose is a standalone web server. Block port 8084 in your firewall for security)
 
 <h1>Running PtTracker (Linux)</h1>
