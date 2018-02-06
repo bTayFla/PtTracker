@@ -14,7 +14,7 @@ Yes, PtTracker is simply an html file and works by reading the ProfitTrailerData
 <b>StartingValue</b> is the balance you started with when you first purchased the bot and is needed to calculate your current balances. If you do not update this, your balances will not be accurate. PtTracker does not have access to your api keys that would be needed to get this data automatically.
 
 <h1>Running PtTracker using Mongoose (Windows) </h1>
-1. After extracting the zip file, <a href="https://cesanta.com/binary.html">Download Mongoose (Windows)</a> and place the .exe file in your ProfitTrailer Folder.<br>
+1. After installing PtTracker, <a href="https://cesanta.com/binary.html">Download Mongoose (Windows)</a> and place the .exe file in your ProfitTrailer Folder.<br>
 2. Open Mongoose (Double click exe file)<br>
 (Mongoose is a standalone web server. Block port 8084 in your firewall for security)
 
