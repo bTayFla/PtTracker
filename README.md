@@ -27,17 +27,18 @@ Open Mongoose (exe file) in your ProfitTrailer folder.<br>
 
 3. Create a shell script to copy your Profit Trailer data to web root
 ```
-#!/bin/sh<br>
+#!/bin/sh
 rm /var/www/html/ProfitTrailerData.json
 cd /home/profitTrailer
 cp /home/profitTrailer/ProfitTrailerData.json /var/www/html/ProfitTrailerData.json
 cd /var/www/html
 chown www-data:www-data /var/www/html/ProfitTrailerData.json
 ```
-4. Setup crontab to run script every three minutes.
-Give full permission: sudo chmod ```a+x myscript.sh```
-Edit crontab: ```crontab -e command```
-Add a new line: ``` */3 * * * * /var/www/html/myscript.sh```
+
+4. Setup crontab to run script every three minutes.<br>
+Give full permission: sudo chmod ```a+x myscript.sh```<br>
+Edit crontab: ```crontab -e command```<br>
+Add a new line: ``` */3 * * * * /var/www/html/myscript.sh```<br>
 
 5. Access PtTracker at http://{YourIp}/PtTracker.html
 
