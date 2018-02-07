@@ -7,8 +7,8 @@ PtTracker is a ProfitTrailer addon that uses the bot trading data to automatical
 PtTracker is simply an html file and works by reading the ProfitTrailerData.json file created by ProfitTrailer. Since this file only contains bot trading data, PtTracker is safe, secure, and does not access or use any api keys or other sensitive information.
 
 <h1>Contact / Support</h1>
-Discord: <a target="_blank" href="https://discordapp.com/">btayfla#0063<br>
-Telegram: https://t.me/pt_tracker
+<a target="_blank" href="https://discordapp.com/">Discord:</a> btayfla#0063<br>
+<a target="_blank" href="https://t.me/pt_tracker">Telegram:</a>  pt_tracker
   
 <h1>Purchasing</h1>
 1. Message me on Discord or Telegram. I will reply with the payment address.<br>
