@@ -5,7 +5,7 @@ PtTracker is a ProfitTrailer addon that uses the bot trading data to automatical
 
 <h1>FAQ</h1>
 <b>Will it work with the Feeder addon?</b> Yes, feeder is simply a tool that updates your pairs/config files based on current market conditions. PtTracker does not make any changes to your setup or files.
-
+<br><br>
 <b>Is it safe?</b> Yes, PtTracker is simply an html file and works by reading the ProfitTrailerData.json file created by ProfitTrailer. Since this file only contains bot trading data, PtTracker is safe, secure, and does not access or use any api keys or other sensitive information.
   
 <h1>Purchasing</h1>
