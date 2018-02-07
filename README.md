@@ -5,13 +5,9 @@ PtTracker is a ProfitTrailer addon that uses the bot trading data to automatical
 
 <h1>Security</h1>
 PtTracker is simply an html file and works by reading the ProfitTrailerData.json file created by ProfitTrailer. Since this file only contains bot trading data, PtTracker is safe, secure, and does not access or use any api keys or other sensitive information.
-
-<h1>Contact / Support</h1>
-<a target="_blank" href="https://discordapp.com/">Discord:</a> btayfla#0063<br>
-<a target="_blank" href="https://t.me/pt_tracker">Telegram:</a>  pt_tracker
   
 <h1>Purchasing</h1>
-1. Message me on Discord or Telegram. I will reply with the payment address.<br>
+1. Message me on <a target="_blank" href="https://discordapp.com/">Discord:</a> btayfla#0063<br> or <a target="_blank" href="https://t.me/pt_tracker">Telegram:</a>  pt_tracker I will reply with the payment address.<br>
 2. Send 0.005 BTC or 0.3 LTC (Send enough to cover your transfer fee)<br>
 3. Once payment is confirmed, I will send your license key.
 
@@ -86,6 +82,10 @@ For extra security, you can block port 8084 in your firewall and add authenticat
 
 Configure your webserver to serve your ProfitTrailer folder as webroot directory locally.<br>
 Access with: http://localhost/PtTracker.html<br>
+
+<h1>Contact / Support</h1>
+<a target="_blank" href="https://discordapp.com/">Discord:</a> btayfla#0063<br>
+<a target="_blank" href="https://t.me/pt_tracker">Telegram:</a>  pt_tracker
 
 <h1>Donate</h1>
 And let me know on discord or telegram if you do so I can thank you!<br>
