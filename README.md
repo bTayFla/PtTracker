@@ -12,7 +12,7 @@ PtTracker is simply an html file and works by reading the ProfitTrailerData.json
 3. Once payment is confirmed, I will send your license key.
 
 <h1>Contact / Support</h1>
-Discord: btayfla#0063<br>
+Discord: <a target="_blank" href="https://discordapp.com/">btayfla#0063<br>
 Telegram: https://t.me/pt_tracker
 
 
