@@ -22,6 +22,16 @@ PtTracker is simply an html file and works by reading the ProfitTrailerData.json
 <br>
 <b>StartingValue</b> is the balance you started with when you first purchased the bot and is needed to calculate your current balances. If you do not update this, your balances will not be accurate. PtTracker does not have access to your api keys that would be needed to get this data automatically.
 
+<b>Deposits/Withdrawls</b> can be added by editing the transfers section in PtTracker.json. Simple add the date mm/yy/yyyy and a positive or negative value. (Do not add a comma to the last item or PtTracker will not work.)
+
+```
+"Transfers": {
+   "01/07/2018": "0.06",
+   "02/02/2018": "-0.02",
+   "02/14/2018": "0.8"
+  }
+```
+
 <h1>Running PtTracker using Mongoose (Windows) </h1>
 1. After installing PtTracker, <a href="https://cesanta.com/binary.html">Download Mongoose (Windows)</a> and place the .exe file in your ProfitTrailer Folder.<br>
 2. Open Mongoose (Double click exe file)<br>
@@ -73,7 +83,6 @@ For extra security, you can block port 8084 in your firewall and add authenticat
 
 Configure your webserver to serve your ProfitTrailer folder as webroot directory locally.<br>
 Access with: http://localhost/PtTracker.html<br>
-
 
 <h1>Donate</h1>
 And let me know on discord or telegram if you do so I can thank you!<br>
