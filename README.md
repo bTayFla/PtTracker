@@ -25,7 +25,7 @@ Open PtTracker.json in a text editor, add your username, license key, starting v
 
 <b>StartingValue</b> is the balance you started with when you first purchased the bot and is needed to calculate your current balance. If you do not update this, your balance will not be accurate. PtTracker does not have access to your api keys that would be needed to get this data automatically.
 
-<b>Deposits/Withdrawls</b> can be added by editing the transfers section in PtTracker.json. Simple add the date mm/dd/yyyy and a positive or negative value. (Do not add a comma to the last item or PtTracker will not work.)
+<b>Deposits/Withdrawls</b> can be added by editing the transfers section in PtTracker.json. Simple add the date (mm/dd/yyyy format) and a positive or negative value. (Do not add a comma to the last item or PtTracker will not work.)
 
 ```
 "Transfers": {
