@@ -19,7 +19,8 @@ PtTracker is simply an html file and works by reading the ProfitTrailerData.json
 1. Extract the PtTracker.zip files into your ProfitTrailer Folder. (Same folder as application.properties)<br>
 2. Open PtTracker.json in a text editor, add your username, license key, starting value, and then save.
 (Note: Your license key has single user access. If you give it to someone else, your tracker will no longer work.)<br>
-<br>
+
+<h2>Configuring PtTracker.json</h2>
 <b>StartingValue</b> is the balance you started with when you first purchased the bot and is needed to calculate your current balances. If you do not update this, your balances will not be accurate. PtTracker does not have access to your api keys that would be needed to get this data automatically.
 
 <b>Deposits/Withdrawls</b> can be added by editing the transfers section in PtTracker.json. Simple add the date mm/yy/yyyy and a positive or negative value. (Do not add a comma to the last item or PtTracker will not work.)
