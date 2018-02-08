@@ -89,7 +89,7 @@ Access with: http://localhost/PtTracker.html<br>
 <h1>Contact / Support</h1>
 <a target="_blank" href="https://discordapp.com/">Discord:</a> btayfla#0063<br>
 <a target="_blank" href="https://t.me/pt_tracker">Telegram:</a>  pt_tracker<br>
-Website: <a href="http://PtTracker.net" target="_blank">PtTracker.net</a>
+<a href="http://PtTracker.net" target="_blank">Website:</a> PtTracker.net
 
 <h1>Donate</h1>
 And let me know on discord or telegram if you do so I can thank you!<br>
