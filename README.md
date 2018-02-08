@@ -11,7 +11,7 @@ Website: <a href="http://PtTracker.net" target="_blank">PtTracker.net</a>
   
 <h1>Purchasing</h1>
 1. Send a message to btayfla#0063 on <a target="_blank" href="https://discordapp.com/">Discord</a> or to pt_tracker on <a target="_blank" href="https://t.me/pt_tracker">Telegram</a>. You will receive a reply with the payment address.<br>
-2. Send 0.005 BTC or 0.3 LTC (Send enough to cover your transfer fee)<br>
+2. Send 0.005 BTC (Send enough to cover your transfer fee)<br>
 3. Once payment is confirmed, you will receive a reply with your license key and install files.
 
 <h1>Installing PtTracker</h1>
