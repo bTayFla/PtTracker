@@ -7,10 +7,13 @@ Website: <a href="http://PtTracker.net" target="_blank">http://PtTracker.net</a>
 <h1>FAQ</h1>
 <b>Will it work with the Feeder addon?</b> Yes, feeder is a tool that updates your pairs/config files based on current market conditions. PtTracker does not make any changes to your setup or files.
 <br><br>
-<b>Is my data safe?</b> Yes, PtTracker is simply an html file and works by reading the ProfitTrailerData.json file created by ProfitTrailer. Since this file only contains bot trading data, PtTracker is safe, secure, and does not access or use any api keys or other sensitive information.
+<b>Is ETH and USDT supported? You can set PtTracker to use any currency of your choice. What other currencies are supported?</b> All trading currencies that are supported by Profit Trailer are also supported by PtTracker. 
 <br><br>
-<b>Is ETH and USDT supported? What other currencies are supported?</b> All trading currencies that are supported by Profit Trailer are also supported by PtTracker. You can set PtTracker to use any currency of your choice.
-  
+<b>What exchanges are supported?</b> Since PtTracker only reads trading data from the bot itself and does not access any exchange data, all exchanges that are supported by Profit Trailer are also supported by PtTracker.
+<br><br>
+<b>Is my data safe?</b> Yes, PtTracker is simply an html file and works by reading the ProfitTrailerData.json file created by ProfitTrailer. Since this file only contains bot trading data, PtTracker is safe, secure, and does not access or use any api keys or other sensitive information.
+
+
 <h1>Purchasing</h1>
 1. Send a message to btayfla#0063 on <a target="_blank" href="https://discordapp.com/">Discord</a> or to pt_tracker on <a target="_blank" href="https://t.me/pt_tracker">Telegram</a>. You will receive a reply with the payment address.<br>
 2. Send 0.005 BTC (Send enough to cover your transfer fee)<br>
