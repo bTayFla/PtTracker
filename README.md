@@ -20,7 +20,8 @@ Website: <a href="http://PtTracker.net" target="_blank">http://PtTracker.net</a>
 3. Once payment is confirmed, you will receive a reply with your license key and install files.
 
 <h1>Installing PtTracker</h1>
-Change trading.logHistory  in application.properties file in your ProfitTrailer folder to ```trading.logHistory = 99999999```<br>
+Change trading.logHistory to ```trading.logHistory = 99999999``` in the application.properties file in your ProfitTrailer folder
+
 Extract the PtTracker.zip files into your ProfitTrailer Folder. (Same folder as application.properties)<br>
  
 <h2>Configuring PtTracker.json</h2>
