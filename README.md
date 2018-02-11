@@ -80,6 +80,9 @@ Add a new line: ``` */3 * * * * /var/scripts/myscript.sh```<br>
 
 5. Access PtTracker at http://{YourIp}/PtTracker.html
 
+<h2>Security</h2>
+It is reccomended to configure apache to serve PtTracker on a different port than the default web port and adding htaccess and htpassword for extra security. 
+
 <h1>Running PtTracker (Raspberry Pi)</h1>
 <h2>Python 2</h2>
 
