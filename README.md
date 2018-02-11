@@ -63,7 +63,7 @@ Mongoose is a standalone web server. It is reccomended to block port 8084 in you
 
 2. Move PtTracker.html and PtTracker.json to your web root (/var/www/html)
 
-3. Create a shell script to copy your Profit Trailer data to web root: ```nano /var/scripts/myscript.sh```
+3. Create a shell script to copy your Profit Trailer data to web root: ```nano /var/scripts/getPtTrackerData.sh```
 
 Add the following lines
 ```
@@ -76,9 +76,9 @@ chown www-data:www-data /var/www/html/ProfitTrailerData.json
 ```
 
 4. Setup crontab to run script every three minutes.<br>
-Give full permission: ```sudo chmod a+x /var/scripts/myscript.sh```<br>
+Give full permission: ```sudo chmod a+x /var/scripts/getPtTrackerData.sh```<br>
 Edit crontab: ```crontab -e command```<br>
-Add a new line: ``` */3 * * * * /var/scripts/myscript.sh```<br>
+Add a new line: ``` */3 * * * * /var/scripts/getPtTrackerData.sh```<br>
 
 5. Access PtTracker at http://{YourIp}/PtTracker.html
 
