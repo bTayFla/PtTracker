@@ -12,6 +12,8 @@ Website: <a href="http://PtTracker.net" target="_blank">http://PtTracker.net</a>
 <b>What exchanges are supported?</b> Since PtTracker only reads trading data from the bot itself and does not access any exchange data, all exchanges that are supported by Profit Trailer are also supported by PtTracker.
 <br><br>
 <b>Is my data safe?</b> Yes, PtTracker is simply an html file and works by reading the ProfitTrailerData.json file created by ProfitTrailer. Since this file only contains bot trading data, PtTracker is safe, secure, and does not access or use any api keys or other sensitive information.
+<br><br>
+<b>Can I use PtTracker on more than one bot/exchange?</b> Your PtTracker license key will work for as many bots as you want as long as they are on the same server/vps/pc. If you use bots on different machines, a license key will need to be purchased for each machine. 
 
 
 <h1 id="#purchasing">Purchasing</h1>
