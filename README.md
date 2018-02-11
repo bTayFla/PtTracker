@@ -5,15 +5,20 @@ Website: <a href="http://PtTracker.net" target="_blank">http://PtTracker.net</a>
 <a href="https://ibb.co/nLjtox"><img src="https://preview.ibb.co/b8R68x/Screenshot_2018_02_06_12_30_41.jpg" alt="Screenshot_2018_02_06_12_30_41" border="0"></a>
 
 <h1>FAQ</h1>
+<b>Is my setup supported?</b> Yes, PtTracker will work on any ProfitTrailer-supported operating system in any environment including VPS, Standalone, and Raspberry Pi.
+<br><br>
 <b>Will it work with the Feeder addon?</b> Yes, feeder is a tool that updates your pairs/config files based on current market conditions. PtTracker does not make any changes to your setup or files.
 <br><br>
-<b>Is ETH and USDT supported? You can set PtTracker to use any currency of your choice. What other currencies are supported?</b> All trading currencies that are supported by Profit Trailer are also supported by PtTracker. 
+<b>Is ETH and USDT supported? What other currencies are supported?</b> Yes, You can set PtTracker to use any currency of your choice. All trading currencies that are supported by Profit Trailer are also supported by PtTracker. 
 <br><br>
 <b>What exchanges are supported?</b> Since PtTracker only reads trading data from the bot itself and does not access any exchange data, all exchanges that are supported by Profit Trailer are also supported by PtTracker.
 <br><br>
 <b>Is my data safe?</b> Yes, PtTracker is simply an html file and works by reading the ProfitTrailerData.json file created by ProfitTrailer. Since this file only contains bot trading data, PtTracker is safe, secure, and does not access or use any api keys or other sensitive information.
 <br><br>
 <b>Can I use PtTracker on more than one bot/exchange?</b> Your PtTracker license key will work for as many bots as you want as long as they are on the same server/vps/pc. If you use bots on different machines, a license key will need to be purchased for each machine. 
+<br><br>
+<b>Is PtTracker officially endorsed by ProfitTrailer?</b>
+Not yet! However, we hope to make this happen soon. Hint hint @ProfitTrailer ;)
 
 
 <h1 id="#purchasing">Purchasing</h1>
