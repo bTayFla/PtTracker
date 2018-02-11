@@ -61,9 +61,11 @@ Mongoose is a standalone web server. It is reccomended to block port 8084 in you
 
 1. Install Apache https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04
 
-2. Move PtTracker.html and PtTracker.json to your web root (/var/www/html)
+2. Copy the PtTracker.html and PtTracker.json files to your web root (/var/www/html)
 
-3. Create a shell script to copy your Profit Trailer data to web root: ```nano /var/scripts/getPtTrackerData.sh```
+3. Copy the ProfitTrailerData.json file from PT folder to your webroot ```cp /home/profitTrailer/ProfitTrailerData.json /var/www/html/ProfitTrailerData.json```
+
+4. Create a shell script to copy your Profit Trailer data to web root: ```nano /var/scripts/getPtTrackerData.sh```
 
 Add the following lines
 ```
@@ -75,12 +77,12 @@ cd /var/www/html
 chown www-data:www-data /var/www/html/ProfitTrailerData.json
 ```
 
-4. Setup crontab to run script every three minutes.<br>
+5. Setup crontab to run script every three minutes.<br>
 Give full permission: ```sudo chmod a+x /var/scripts/getPtTrackerData.sh```<br>
 Edit crontab: ```crontab -e command```<br>
 Add a new line: ``` */3 * * * * /var/scripts/getPtTrackerData.sh```<br>
 
-5. Access PtTracker at http://{YourIp}/PtTracker.html
+6. Access PtTracker at http://{YourIp}/PtTracker.html
 
 <h2>Security</h2>
 It is reccomended to add htaccess and htpassword for extra security. 
