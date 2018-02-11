@@ -65,7 +65,7 @@ Mongoose is a standalone web server. It is reccomended to block port 8084 in you
 
 3. Copy the ProfitTrailerData.json file from PT folder to your webroot ```cp /home/profitTrailer/ProfitTrailerData.json /var/www/html/ProfitTrailerData.json```
 
-4. Create a shell script to copy your Profit Trailer data to web root: ```nano /var/scripts/getPtTrackerData.sh```
+4. Create a shell script to automatically copy your Profit Trailer data to web root: ```nano /var/scripts/getPtTrackerData.sh```
 
 Add the following lines
 ```
