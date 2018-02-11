@@ -50,9 +50,9 @@ Open PtTracker.json in a text editor, add your username, license key, starting v
   }
 ```
 
-<h1>Running PtTracker (Windows) </h1>
-1. After installing PtTracker, <a href="https://cesanta.com/binary.html">Download Mongoose (Windows)</a> and place the .exe file in your ProfitTrailer Folder.<br>
-2. Open Mongoose (Double click exe file)<br>
+<h1>Running PtTracker (Windows / Mac) </h1>
+1. After installing PtTracker, <a href="https://cesanta.com/binary.html">Download Mongoose (Windows / Mac)</a> and place the executable file in your ProfitTrailer Folder.<br>
+2. Open Mongoose (Double click executable file)<br>
 
 <h2>Security</h2>
 Mongoose is a standalone web server. It is reccomended to block port 8084 in your firewall for security
