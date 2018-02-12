@@ -83,7 +83,7 @@ Add a new line: ``` */3 * * * * /var/scripts/getPtTrackerData.sh```<br>
 6. Access PtTracker at http://{YourIp}/PtTracker.html
 
 <h2>Security</h2>
-It is reccomended to add htaccess and htpassword for extra security. 
+It is reccomended to add htaccess and htpassword for extra security. http://www.htaccesstools.com/articles/password-protection/
 
 <h1>Running PtTracker (Raspberry Pi)</h1>
 <h2>Python 2</h2>
