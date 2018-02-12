@@ -108,8 +108,7 @@ Configure your webserver to serve your ProfitTrailer folder as webroot directory
 Access with: http://localhost/PtTracker.html<br>
 
 <h1>Contact / Support</h1>
-<a target="_blank" href="https://discordapp.com/">Discord:</a> btayfla#0063<br>
-<a target="_blank" href="https://t.me/pt_tracker">Telegram:</a>  pt_tracker<br>
+<a target="_blank" href="https://discordapp.com/">Discord:</a> https://discord.gg/FPXZVf<br>
 <a href="http://PtTracker.net" target="_blank">Website:</a> http://PtTracker.net
 
 <h1>Donate</h1>
