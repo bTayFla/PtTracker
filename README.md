@@ -22,9 +22,7 @@ Not yet! However, we hope to make this happen soon. Hint hint @ProfitTrailer ;)
 
 
 <h1 id="#purchasing">Purchasing</h1>
-1. Send a message to btayfla#0063 on <a target="_blank" href="https://discordapp.com/">Discord</a> or to pt_tracker on <a target="_blank" href="https://t.me/pt_tracker">Telegram</a>. You will receive a reply with the payment address.<br>
-2. Send 0.005 BTC or 0.3 LTC (and enough to cover your withdrawl fee)<br>
-3. Once payment is confirmed, you will receive a reply with your license key and install files.
+Purchase at: http://ptTracker.net
 
 <h1>Installing PtTracker</h1>
 Change trading.logHistory in the application.properties file in your ProfitTrailer folder to prevent data removal:
