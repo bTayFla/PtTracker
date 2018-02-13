@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 3. If this does not open the PtTracker website you will need  to run via the command line or a bat file in this folder.
 
-4. (Note: Mongoose is a standalone web server. It is reccomended to keep port 8084 closed however if you want to access from other devices you will have to open this port in your firewall) If you are accessing PtTracker from multiple devices, to avoid license validation issues, you will need to run it initially on the host machine and keep it running on the host machine. If you are still getting license validation errors, close all instances of PtTracker and wait for five minutes before running it first on the host machine. Then your other devices should be able to connect!
+4. (Note: Mongoose is a standalone web server. It is reccomended to keep port 8084 closed however if you want to access from other devices you will have to open this port in your firewall) The PtTracker web GUI must remain up and running on the host machine at all times to ensure that you will be able to access the GUI externally from any IP. If you recieve validation errors when trying to view the GUI externally, please close ALL instances of the PTTracker GUI on ALL devices, wait 5-10 min, then reopen the GUI on your host machine and leave it running. You will then be able to access it externally from any IP.
 
 <h2>Linux</h2>
 
@@ -105,7 +105,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 6. Access PtTracker at http://{YourIp}/PtTracker.html
 
-7. (Note: It is reccomended to add htaccess and htpassword for extra security using <b><a href="http://www.htaccesstools.com/articles/password-protection/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>) If you are accessing PtTracker from multiple devices, to avoid license validation issues, you will need to run it initially on the host machine and keep it running on the host machine. If you are still getting license validation errors, close all instances of PtTracker and wait for five minutes before running it first on the host machine. Then your other devices should be able to connect!
+7. (Note: It is reccomended to keep port 8084 closed however if you want to access from other devices you will have to open this port in your firewall. If you open the port it is reccomended to add htaccess and htpassword for extra security using <b><a href="http://www.htaccesstools.com/articles/password-protection/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>) The PtTracker web GUI must remain up and running on the host machine at all times to ensure that you will be able to access the GUI externally from any IP. If you recieve validation errors when trying to view the GUI externally, please close ALL instances of the PTTracker GUI on ALL devices, wait 5-10 min, then reopen the GUI on your host machine and leave it running. You will then be able to access it externally from any IP.
 
 <h2>Raspberry Pi</h2>
 <h3>Python 2</h3>
@@ -118,8 +118,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 4. This approach is built in to any Python installation.
 
-5. For extra security, you can block port 8084 in your firewall and add authentication using <b><a href="https://github.com/tianhuil/SimpleHTTPAuthServer" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>) If you are accessing PtTracker from multiple devices, to avoid license validation issues, you will need to run it initially on the host machine and keep it running on the host machine. If you are still getting license validation errors, close all instances of PtTracker and wait for five minutes before running it first on the host machine. Then your other devices should be able to connect!
-
+5. (Note: It is reccomended to keep port 8084 closed however if you want to access from other devices you will have to open this port in your firewall. If you open the port it is reccomended to add authentication using <b><a href="https://github.com/tianhuil/SimpleHTTPAuthServer" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>) The PtTracker web GUI must remain up and running on the host machine at all times to ensure that you will be able to access the GUI externally from any IP. If you recieve validation errors when trying to view the GUI externally, please close ALL instances of the PTTracker GUI on ALL devices, wait 5-10 min, then reopen the GUI on your host machine and leave it running. You will then be able to access it externally from any IP.
 <h3>Python 3</h3>
 
 1. Do the same steps, but use the following command instead ```python3 -m http.server 8084```
