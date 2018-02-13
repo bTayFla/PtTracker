@@ -7,10 +7,6 @@ PtTracker is a ProfitTrailer addon that uses the bot trading data (from the log 
 
 <a href="https://ibb.co/nLjtox"><img src="https://preview.ibb.co/b8R68x/Screenshot_2018_02_06_12_30_41.jpg" alt="Screenshot_2018_02_06_12_30_41" border="0"></a>
 
-<h1>Awesome Setup Video</h1>
-
-https://www.youtube.com/watch?v=nuTLbBqSduk
-
 <h1>FAQ</h1>
 <b>Is my setup supported?</b> Yes, PtTracker will work on any operating system that ProfitTrailer supports.
 <br><br>
@@ -42,6 +38,10 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 5. Sit back and wait for confirmations on the blockchain
 
 6. Check your email for the files and licence key
+
+<h1>Awesome Setup & Information Video</h1>
+
+https://www.youtube.com/watch?v=nuTLbBqSduk
 
 <h1>How To Install & Configure PtTracker</h1>
 
