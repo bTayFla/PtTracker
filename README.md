@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 3. If this does not open the PtTracker website you will need  to run via the command line or a bat file in this folder.
 
-4. (Note: Mongoose is a standalone web server. It is reccomended to block port 8084 in your firewall for security)
+4. (Note: Mongoose is a standalone web server. It is reccomended to keep port 8084 closed however if you want to access from other devices you will have to open this port in your firewall) If you are accessing PtTracker from multiple devices, to avoid license validation issues, you will need to run it initially on the host machine and keep it running on the host machine. If you are still getting license validation errors, close all instances of PtTracker and wait for five minutes before running it first on the host machine. Then your other devices should be able to connect!
 
 <h2>Linux</h2>
 
@@ -105,7 +105,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 6. Access PtTracker at http://{YourIp}/PtTracker.html
 
-7. (Note: It is reccomended to add htaccess and htpassword for extra security using <b><a href="http://www.htaccesstools.com/articles/password-protection/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>)
+7. (Note: It is reccomended to add htaccess and htpassword for extra security using <b><a href="http://www.htaccesstools.com/articles/password-protection/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>) If you are accessing PtTracker from multiple devices, to avoid license validation issues, you will need to run it initially on the host machine and keep it running on the host machine. If you are still getting license validation errors, close all instances of PtTracker and wait for five minutes before running it first on the host machine. Then your other devices should be able to connect!
 
 <h2>Raspberry Pi</h2>
 <h3>Python 2</h3>
@@ -118,7 +118,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 4. This approach is built in to any Python installation.
 
-5. For extra security, you can block port 8084 in your firewall and add authentication using <b><a href="https://github.com/tianhuil/SimpleHTTPAuthServer" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>)
+5. For extra security, you can block port 8084 in your firewall and add authentication using <b><a href="https://github.com/tianhuil/SimpleHTTPAuthServer" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>) If you are accessing PtTracker from multiple devices, to avoid license validation issues, you will need to run it initially on the host machine and keep it running on the host machine. If you are still getting license validation errors, close all instances of PtTracker and wait for five minutes before running it first on the host machine. Then your other devices should be able to connect!
 
 <h3>Python 3</h3>
 
