@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 1. Change trading.logHistory in the application.properties file in your ProfitTrailer folder to prevent data removal:
 
-	```trading.logHistory = 99999999```
+	```trading.logHistory = 365```
 
 2. Extract the PtTracker.zip and move all the files directly into your ProfitTrailer Folder (same directory as profittrailer.jar and application.properties)
 
