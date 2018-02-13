@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 	```trading.logHistory = 365```
 
-2. Extract the PtTracker.zip and move all the files directly into your ProfitTrailer Folder (same directory as profittrailer.jar and application.properties)
+2. Extract the PtTracker.zip and move all the files directly into your ProfitTrailer Folder (same directory as profittrailer.jar and application.properties) (Note: if you receive a .bin file just rename it to .zip then extract.)
 
 3. Open PtTracker.json in your favorite text editor, add your username, license key, starting value, and any deposits and withdrawals then save and close the file.
 
