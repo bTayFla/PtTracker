@@ -127,6 +127,10 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 2. Access with: http://localhost/PtTracker.html
 
+<h1>How To Update</h1>
+
+Please remove all PtTracker files except for pttracker.json the move all the files except for this one from the zip file into the proper directory. Run as per OS instructions <b>these have changed for Windows!</b>
+
 <h1>Contact / Support</h1>
 <b><a href="http://pttracker.net/?r=3" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
 
