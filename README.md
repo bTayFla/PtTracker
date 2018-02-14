@@ -3,7 +3,7 @@ PtTracker is a ProfitTrailer addon that uses the bot trading data (from the log 
 
 <b><a href="http://pttracker.net/?r=3" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
 
-<b><a href="https://discord.gg/FPXZVf" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Support Discord</a></b>
+<b><a href="https://discord.gg/c2K9TTM" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Support Discord</a></b>
 
 <a href="https://ibb.co/nLjtox"><img src="https://preview.ibb.co/b8R68x/Screenshot_2018_02_06_12_30_41.jpg" alt="Screenshot_2018_02_06_12_30_41" border="0"></a>
 
@@ -22,7 +22,7 @@ PtTracker is a ProfitTrailer addon that uses the bot trading data (from the log 
 <br><br>
 <b>Is PtTracker officially endorsed by ProfitTrailer?</b> Not yet! However, we hope to make this happen soon. Hint hint @ProfitTrailer ;)
 <br><br>
-<b>Do you have any other questions?</b> Join our Discord and we will be happy to help you in the <b><a href="https://discord.gg/FPXZVf" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">#pt-tracker-support</a></b>
+<b>Do you have any other questions?</b> Join our Discord and we will be happy to help you in the <b><a href="https://discord.gg/c2K9TTM" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">#pt-tracker-support</a></b>
 
 
 <h1 id="#purchasing">How To Purchase</h1>
@@ -132,7 +132,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 <h1>Contact / Support</h1>
 <b><a href="http://pttracker.net/?r=3" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
 
-<b><a href="https://discord.gg/FPXZVf" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Support Discord</a></b>
+<b><a href="https://discord.gg/c2K9TTM" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Support Discord</a></b>
 
 <h1>Please Donate!</h1>
 
