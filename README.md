@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 3. (Note: Mongoose is a standalone web server. It is reccomended to keep port 8084 closed however if you want to access from other devices you will have to open this port in your firewall) The PtTracker web GUI must remain up and running on the host machine at all times to ensure that you will be able to access the GUI externally from any IP. If you recieve validation errors when trying to view the GUI externally, please close ALL instances of the PTTracker GUI on ALL devices, wait 5-10 min, then reopen the GUI on your host machine and leave it running. You will then be able to access it externally from any IP.
 
-<b>Multiple Bots.</b> Edit the mongoose.conf file in the second bot and change the port to a new port (ex. 8085). All other steps are the same.
+4. <b>If running multiple bots/exchanges.</b> Edit the mongoose.conf file in the second bot and change the port to a new port (ex. 8085). All other steps are the same.
 
 <h2>Linux</h2>
 
