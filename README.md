@@ -37,7 +37,7 @@ PtTracker is a ProfitTrailer addon that uses the bot trading data (from the log 
 
 5. Sit back and wait for confirmations on the blockchain
 
-6. Check your email for the files and licence key
+6. Check your email for licence key
 
 <h1>Awesome Setup & Information Video</h1>
 
@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 	```trading.logHistory = 365```
 
-2. Extract the PtTracker.zip and move all the files directly into your ProfitTrailer Folder (same directory as profittrailer.jar and application.properties) (Note: if you receive a .bin file just rename it to .zip then extract.)
+2. Download the zip file from <b><a href="http://pttracker.net/update/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Download</a></b>. Extract the PtTracker.zip and move all the files directly into your ProfitTrailer Folder (same directory as profittrailer.jar and application.properties)
 
 3. Open PtTracker.json in your favorite text editor, add your username, license key, starting value, and any deposits and withdrawals then save and close the file.
 
