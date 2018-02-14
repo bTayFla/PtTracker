@@ -71,9 +71,9 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 1. After installing PtTracker, <b><a href="https://cesanta.com/binary.html">Download Mongoose (Windows / Mac)</a></b> and place the executable file in your ProfitTrailer Folder (same directory as profittrailer.jar and application.properties)<br>
 
-2. Open Mongoose (Double click executable file)
+2. Edit the .bat file that is included and change the ```user1 password1``` on line 3 then save the file. This will be your username and password to login to the tracker.
 
-3. If this does not open the PtTracker website you will need  to run via the command line or a bat file in this folder.
+3. Run the .bat file. The tracker webpage will open at which point you must log in.
 
 4. (Note: Mongoose is a standalone web server. It is reccomended to keep port 8084 closed however if you want to access from other devices you will have to open this port in your firewall) The PtTracker web GUI must remain up and running on the host machine at all times to ensure that you will be able to access the GUI externally from any IP. If you recieve validation errors when trying to view the GUI externally, please close ALL instances of the PTTracker GUI on ALL devices, wait 5-10 min, then reopen the GUI on your host machine and leave it running. You will then be able to access it externally from any IP.
 
