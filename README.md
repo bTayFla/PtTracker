@@ -129,7 +129,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 <h1>How To Update</h1>
 
-Remove all PtTracker files except for PtTracker.json. Then move all the files except PtTracker.json from the zip file into the proper directory. Run as per OS instructions <b>these have changed for Windows!</b>
+Remove all PtTracker files except for PtTracker.json. Then move all the files except PtTracker.json from the zip file into the proper directory. If you were previously using mongoose, end task for mongoose.exe in the windows task manager before running the new version. </b>
 
 <h1>Contact / Support</h1>
 <b><a href="http://pttracker.net/?r=3" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
