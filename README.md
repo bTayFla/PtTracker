@@ -129,6 +129,14 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 2. Access with: http://localhost/PtTracker.html
 
+<h1>How to Update</h1>
+<h2>Windows</h2>
+Make a backup of PtTracker.json. Remove all PtTracker files. Then move all the files from the zip file into the proper directory. Update the new PtTracker.json with your user ID, license key and details. If you were previously using mongoose, end task for mongoose.exe in the windows task manager before running the new version. 
+
+<h2>Linux</h2>
+Make a backup of PtTracker.json. Delete the old Pttracker.html and PtTracker.json from your proper directory, then move the new PtTracker.html and PtTracker.json in. Update the new PtTracker.json with your user ID, license key and details.
+
+
 <h1>Contact / Support</h1>
 <b><a href="http://pttracker.net/?r=3" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
 
