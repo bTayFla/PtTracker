@@ -123,7 +123,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 4. This approach is built in to any Python installation.
 
-5. If you do plan to access this from other devices other than the host machine please <b><a href="http://pttracker.net/license/changeIP/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">register the host IP.</a></b> and open the port on your firewall.
+5.  If you do plan to access this from other devices other than the host machine please <b><a href="http://pttracker.net/license/changeIP/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">register the host IP.</a></b> and open the port on your firewall and add authentication using <b><a href="https://github.com/tianhuil/SimpleHTTPAuthServer" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>)
 
 6. <b>If running multiple bots/exchanges.</b> Edit the mongoose.conf file in the second bot and change the port to a new port (ex. 8085). All other steps are the same.
 
@@ -136,14 +136,6 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 1. Configure your webserver to server your ProfitTrailer folder as webroot directory locally.
 
 2. Access with: http://localhost/PtTracker.html
-
-<h1>How to Update</h1>
-<h2>Windows / Mac</h2>
-Make a backup of PtTracker.json. Remove all PtTracker files. Then move all the files from the zip file into the proper directory. Update the new PtTracker.json with your user ID, license key and details. If you were previously using mongoose, end task for mongoose.exe in the windows task manager before running the new version. 
-
-<h2>Linux</h2>
-Make a backup of PtTracker.json. Delete the old Pttracker.html and PtTracker.json from your proper directory, then move the new PtTracker.html and PtTracker.json in. Update the new PtTracker.json with your user ID, license key and details.
-
 
 <h1>Contact / Support</h1>
 <b><a href="http://pttracker.net/?r=3" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
