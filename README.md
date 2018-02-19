@@ -1,4 +1,4 @@
-# PtTracker - The ProfitTrailer Tracking Addon 
+# <img src="http://ptTracker.net/PtTrackerLogo.png" style="height:30px;"> - The ProfitTrailer Tracking Addon 
 PtTracker is a ProfitTrailer addon that uses the bot trading data (from the log file) to automatically track your daily and monthly profits in real time. Added tools inlude: Data Exporting for Taxes, and Manual Backup of Profit Trailer Trading Data.
 
 <b><a href="http://pttracker.net/?r=3" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
