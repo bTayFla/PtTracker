@@ -1,4 +1,4 @@
-# <img src="http://ptTracker.net/PtTrackerLogo.png" style="height:30px;">
+# <a href="http://pttracker.net/"><img src="http://ptTracker.net/PtTrackerLogo.png" style="height:30px;"></a>
 <font color="#999">PtTracker - The ProfitTrailer Tracking Addon</font>
 
 
