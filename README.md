@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 <h2>Windows</h2>
 
-1. After installing PtTracker, <b><a href="https://cesanta.com/binary.html">Download Mongoose (Windows / Mac)</a></b> and place the executable file in your ProfitTrailer Folder (same directory as profittrailer.jar and application.properties)<br>
+1. After installing PtTracker, <b><a href="https://cesanta.com/binary.html">Download Mongoose</a></b> and place the executable file in your ProfitTrailer Folder (same directory as profittrailer.jar and application.properties)<br>
 
 2. Follow this <b><a href="http://mywindowshub.com/how-to-unblock-a-file-in-windows-10/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">guide</a></b> to unblock the mongoose executable file and the Run_Profit_Tracker.bat file.
 
