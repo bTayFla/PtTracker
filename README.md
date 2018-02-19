@@ -4,7 +4,7 @@
 
 PtTracker is a ProfitTrailer addon that uses the bot trading data (from the log file) to automatically track your daily and monthly profits in real time. Added tools inlude: Data Exporting for Taxes, and Manual Backup of Profit Trailer Trading Data.
 
-<b><a href="http://pttracker.net/?r=3" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
+<b><a href="http://pttracker.net/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
 
 <b><a href="https://discord.gg/Er6UfJm" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Support Discord</a></b>
 
@@ -158,7 +158,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 2. Access with: http://localhost/PtTracker.html
 
 <h1>Contact / Support</h1>
-<b><a href="http://pttracker.net/?r=3" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
+<b><a href="http://pttracker.net/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
 
 <b><a href="https://discord.gg/c2K9TTM" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Support Discord</a></b>
 
