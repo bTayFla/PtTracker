@@ -6,7 +6,7 @@ PtTracker is a ProfitTrailer addon that uses the bot trading data (from the log 
 
 <b><a href="http://pttracker.net/?r=3" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
 
-<b><a href="https://discord.gg/c2K9TTM" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Support Discord</a></b>
+<b><a href="https://discord.gg/Er6UfJm" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Support Discord</a></b>
 
 <a href="https://i.gyazo.com/a9d3c05193c0bd22b03b0a13ba55d147.png"><img src="https://i.gyazo.com/a9d3c05193c0bd22b03b0a13ba55d147.png" alt="Screenshot" border="0"></a>
 
@@ -25,7 +25,7 @@ PtTracker is a ProfitTrailer addon that uses the bot trading data (from the log 
 <br><br>
 <b>Is PtTracker officially endorsed by ProfitTrailer?</b> Not yet! However, we hope to make this happen soon. Hint hint @ProfitTrailer ;)
 <br><br>
-<b>Do you have any other questions?</b> Join our Discord and we will be happy to help you in the <b><a href="https://discord.gg/c2K9TTM" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">#pt-tracker-support</a></b>
+<b>Do you have any other questions?</b> Join our Discord and we will be happy to help you in the <b><a href="https://discord.gg/Er6UfJm" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">#pt-tracker-support</a></b>
 
 
 <h1 id="#purchasing">How To Purchase</h1>
