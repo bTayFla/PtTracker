@@ -30,7 +30,7 @@ PtTracker is a ProfitTrailer addon that uses the bot trading data (from the log 
 
 <h1 id="#purchasing">How To Purchase</h1>
 
-1. Go to <b><a href="http://pttracker.net/?r=3" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">official website</a></b>
+1. Go to <b><a href="http://pttracker.net/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">official website</a></b>
 
 2. Click on "BUY NOW" button
 
