@@ -84,6 +84,26 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 <h2>Linux</h2>
 
+<h3>Python 2</h3>
+
+1. Change directory into the ProfitTrailer folder using the command ```cd /path/to/your/ProfitTrailer```
+
+2. Start up a Python web server using the command ```python -m SimpleHTTPServer 8084```
+
+3. This will start a web server that hosts PtTracker, which will be made accessible through the following URL: http://localhost:8084/PtTracker.html OR http://{YourServerIp}:8084/PtTracker.html
+
+4. This approach is built in to any Python installation.
+
+5.  If you do plan to access this from other devices other than the host machine please <b><a href="http://pttracker.net/license/changeIP/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">register the host IP</a></b> and open the port on your firewall and add authentication using <b><a href="https://github.com/tianhuil/SimpleHTTPAuthServer" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>
+
+6. <b>If running multiple bots/exchanges.</b> Edit the mongoose.conf file in the second bot and change the port to a new port (ex. 8085). All other steps are the same.
+
+<h3>Python 3</h3>
+
+1. Do the same steps, but use the following command instead ```python3 -m http.server 8084```
+
+<h2>Apache</h2>
+
 1. Install Apache using the <b><a href="https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>
 
 2. Move the PtTracker.html and PtTracker.json files to your web root (/var/www/html)
