@@ -102,7 +102,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 1. Do the same steps, but use the following command instead ```python3 -m http.server 8084```
 
-<h2>Apache</h2>
+<h3>Apache</h3>
 
 1. Install Apache using the <b><a href="https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>
 
