@@ -123,7 +123,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 4. This approach is built in to any Python installation.
 
-5.  If you do plan to access this from other devices other than the host machine please <b><a href="http://pttracker.net/license/changeIP/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">register the host IP.</a></b> and open the port on your firewall and add authentication using <b><a href="https://github.com/tianhuil/SimpleHTTPAuthServer" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>
+5.  If you do plan to access this from other devices other than the host machine please <b><a href="http://pttracker.net/license/changeIP/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">register the host IP</a></b> and open the port on your firewall and add authentication using <b><a href="https://github.com/tianhuil/SimpleHTTPAuthServer" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>
 
 6. <b>If running multiple bots/exchanges.</b> Edit the mongoose.conf file in the second bot and change the port to a new port (ex. 8085). All other steps are the same.
 
