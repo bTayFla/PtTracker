@@ -108,9 +108,9 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 	Edit crontab: ```crontab -e command```<br>
 	Add a new line: ``` */3 * * * * /var/scripts/getPtTrackerData.sh```<br>
 
-6. Access PtTracker at http://{YourIp}/PtTracker.html
+6. If you do plan to access this from other devices other than the host machine please <b><a href="http://pttracker.net/license/changeIP/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">register the host IP.</a></b> and open the port on your firewall.
 
-7. (Note: It is reccomended to keep port 8084 closed however if you want to access from other devices you will have to open this port in your firewall. If you open the port it is reccomended to add htaccess and htpassword for extra security using <b><a href="http://www.htaccesstools.com/articles/password-protection/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>) The PtTracker web GUI must remain up and running on the host machine at all times to ensure that you will be able to access the GUI externally from any IP. If you recieve validation errors when trying to view the GUI externally, please close ALL instances of the PTTracker GUI on ALL devices, wait 5-10 min, then reopen the GUI on your host machine and leave it running. You will then be able to access it externally from any IP.
+7. <b>If running multiple bots/exchanges.</b> Edit the mongoose.conf file in the second bot and change the port to a new port (ex. 8085). All other steps are the same.
 
 <h2>Raspberry Pi</h2>
 <h3>Python 2</h3>
@@ -124,6 +124,11 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 4. This approach is built in to any Python installation.
 
 5. (Note: It is reccomended to keep port 8084 closed however if you want to access from other devices you will have to open this port in your firewall. If you open the port it is reccomended to add authentication using <b><a href="https://github.com/tianhuil/SimpleHTTPAuthServer" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">tutorial</a></b>) The PtTracker web GUI must remain up and running on the host machine at all times to ensure that you will be able to access the GUI externally from any IP. If you recieve validation errors when trying to view the GUI externally, please close ALL instances of the PTTracker GUI on ALL devices, wait 5-10 min, then reopen the GUI on your host machine and leave it running. You will then be able to access it externally from any IP.
+
+6. If you do plan to access this from other devices other than the host machine please <b><a href="http://pttracker.net/license/changeIP/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">register the host IP.</a></b> and open the port on your firewall.
+
+7. <b>If running multiple bots/exchanges.</b> Edit the mongoose.conf file in the second bot and change the port to a new port (ex. 8085). All other steps are the same.
+
 <h3>Python 3</h3>
 
 1. Do the same steps, but use the following command instead ```python3 -m http.server 8084```
