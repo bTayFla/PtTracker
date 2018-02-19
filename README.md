@@ -76,11 +76,11 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 2. Follow this <b><a href="http://mywindowshub.com/how-to-unblock-a-file-in-windows-10/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">guide</a></b> to unblock the mongoose executable file and the Run_Profit_Tracker.bat file.
 
-3. Run the Run_Profit_Tracker.bat file. On the first run you must say yes and set the username and password. The tracker webpage will open at which point you must log in.
+3. Run the Run_Profit_Tracker.bat file. On the first run you will be asked if you want a password. If you want to set a password you must say yes and set the username and password, otherwise say no. The tracker webpage will open at which point you must log in if you set a password. On subsequent runs if you did set a password and want to reset it say yes and if you want to continue using the same password say no. 
 
 4. If you do plan to access this from other devices other than the host machine please <b><a href="http://pttracker.net/license/changeIP/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">register the host IP.</a></b> and open the port on your firewall using this <b><a href="https://www.youtube.com/watch?v=2AcqibSJ8ng" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">guide.</a></b>
 
-4. <b>If running multiple bots/exchanges.</b> Edit the mongoose.conf file in the second bot and change the port to a new port (ex. 8085). All other steps are the same.
+5. <b>If running multiple bots/exchanges.</b> Edit the mongoose.conf file in the second bot and change the port to a new port (ex. 8085). All other steps are the same.
 
 <h2>Linux</h2>
 
