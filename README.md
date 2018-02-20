@@ -160,7 +160,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 <h1>Contact / Support</h1>
 <b><a href="http://pttracker.net/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
 
-<b><a href="https://discord.gg/c2K9TTM" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Support Discord</a></b>
+<b><a href="https://discord.gg/Er6UfJm" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Support Discord</a></b>
 
 <h1>Official PtTracker Resellers</h1>
 https://cryptoprofitbot.com/  (English) 
