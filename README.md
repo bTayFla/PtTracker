@@ -171,7 +171,7 @@ Contact us to become an official reseller or to apply for our affiliate program
 
 <h1>Please Donate!</h1>
 
-If you donate please let me know on discord so I can thank you!
+If you donate please let us know on discord so we can thank you!
 
 <b>BTC:</b> 13EUZ5juobs1XfZW6Ad3QTkbhvchsKbbJN<br>
 <b>LTC:</b> LbmkWmVP1npYtcZtW44Xq1SSGJsRCFZNvC<br>
