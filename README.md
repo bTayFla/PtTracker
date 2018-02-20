@@ -163,9 +163,9 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 <b><a href="https://discord.gg/c2K9TTM" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Support Discord</a></b>
 
 <h1>Official PtTracker Resellers</h1>
-https://cryptoprofitbot.com/
+https://cryptoprofitbot.com/  (English) 
 
-https://profittrailer-services.com/
+https://profittrailer-services.com/  (French & English)
 
 Contact us to become an official reseller or to apply for our affiliate program 
 
