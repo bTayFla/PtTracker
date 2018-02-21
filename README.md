@@ -164,7 +164,8 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 1. Please valadate your json file here https://jsonlint.com/ which will tell you if it has an error and what line it is on. 
 2. The default config with 3 transfers should look like this 
 
-	```{
+```
+	{
 	  "General": {
 	    "StartingValue": "0.04",
 		"Currency": "BTC",
@@ -179,6 +180,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 	   "02/03/2018": "3.000"
 	  }
 	}
+```
 
 3. The most commor error is having improper spacing on lines or having an extra comma / missing a comma after each line in a string except the last.
 
