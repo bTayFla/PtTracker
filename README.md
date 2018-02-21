@@ -108,11 +108,12 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 
 2. Move the PtTracker.html and PtTracker.json files to your web root (/var/www/html)
 
-3. Copy the ProfitTrailerData.json file from PT folder to your webroot ```cp /home/profitTrailer/ProfitTrailerData.json /var/www/html/ProfitTrailerData.json```
+3. Copy the ProfitTrailerData.json file from PT folder to your webroot `cp /home/profitTrailer/ProfitTrailerData.json /var/www/html/ProfitTrailerData.json`
 
-4. Create a shell script to automatically copy your Profit Trailer data to web root: ```nano /var/scripts/getPtTrackerData.sh```
+4. Create a shell script to automatically copy your Profit Trailer data to web root: `nano /var/scripts/getPtTrackerData.sh`
 
 		Add the following lines
+		
 		```
 		#!/bin/sh
 		rm /var/www/html/ProfitTrailerData.json
