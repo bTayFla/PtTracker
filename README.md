@@ -113,7 +113,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 4. Create a shell script to automatically copy your Profit Trailer data to web root: `nano /var/scripts/getPtTrackerData.sh`
 
 	Add the following lines
-		
+
 		```
 		#!/bin/sh
 		rm /var/www/html/ProfitTrailerData.json
