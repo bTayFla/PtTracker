@@ -116,14 +116,14 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 Add the following lines
 
 
-		```
-		#!/bin/sh
-		rm /var/www/html/ProfitTrailerData.json
-		cd /home/profitTrailer
-		cp /home/profitTrailer/ProfitTrailerData.json /var/www/html/ProfitTrailerData.json
-		cd /var/www/html
-		chown www-data:www-data /var/www/html/ProfitTrailerData.json
-		```
+```
+#!/bin/sh
+rm /var/www/html/ProfitTrailerData.json
+cd /home/profitTrailer
+cp /home/profitTrailer/ProfitTrailerData.json /var/www/html/ProfitTrailerData.json
+cd /var/www/html
+chown www-data:www-data /var/www/html/ProfitTrailerData.json
+```
 
 
 5. Setup crontab to run script every three minutes.<br>
