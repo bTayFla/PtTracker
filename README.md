@@ -178,7 +178,7 @@ https://www.youtube.com/watch?v=nuTLbBqSduk
 	   "02/02/2018": "2.000",
 	   "02/03/2018": "3.000"
 	  }
-	}```
+	}
 
 3. The most commor error is having improper spacing on lines or having an extra comma / missing a comma after each line in a string except the last.
 
