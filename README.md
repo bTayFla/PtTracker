@@ -11,7 +11,11 @@ PtTracker is a ProfitTrailer addon that uses the bot trading data (from the log 
 <a href="https://i.gyazo.com/a9d3c05193c0bd22b03b0a13ba55d147.png"><img src="https://i.gyazo.com/a9d3c05193c0bd22b03b0a13ba55d147.png" alt="Screenshot" border="0"></a>
 
 <h1>FAQ</h1>
-<b>Is my setup supported?</b> Yes, PtTracker will work on any operating system that ProfitTrailer supports.
+<details> 
+  <summary><b>Is my setup supported?</b></summary>
+   Yes, PtTracker will work on any operating system that ProfitTrailer supports. 
+</details>
+ 
 <br><br>
 <b>Will it work with the ProfitTrailer Feeder addon?</b> Yes, PtTracker does not make any changes to your setup or files.
 <br><br>
@@ -209,7 +213,4 @@ If you donate please let us know on discord so we can thank you!
 <b>ETH:</b> 0xAcc1416387B7C3f9AF0E93A9583C95EB441dDD6
 
 
-<details> 
-  <summary>Q1: What is the best Language in the World? </summary>
-   A1: JavaScript 
-</details>
+
