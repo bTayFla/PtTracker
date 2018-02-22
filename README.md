@@ -1,4 +1,4 @@
-# <a href="http://pttracker.net/"><img src="http://ptTracker.net/PtTrackerLogo.png" style="height:30px;"></a>
+#<a href="http://pttracker.net/"><img src="http://ptTracker.net/PtTrackerLogo.png" style="height:30px;"></a>
 <font color="#999">PtTracker - The ProfitTrailer Tracking Addon</font>
 
 
@@ -12,24 +12,44 @@ PtTracker is a ProfitTrailer addon that uses the bot trading data (from the log 
 
 <h1>FAQ</h1>
 <details> 
-  <summary><b>Is my setup supported?</b></summary>
-   Yes, PtTracker will work on any operating system that ProfitTrailer supports. 
+  	<summary><b>Is my setup supported?</b></summary>
+   	Yes, PtTracker will work on any operating system that ProfitTrailer supports. 
+</details> 
+<br>
+<details> 
+  	<summary><b>Will it work with the ProfitTrailer Feeder addon?</b></summary>
+  	Yes, PtTracker does not make any changes to your setup or files.
 </details>
- 
-<br><br>
-<b>Will it work with the ProfitTrailer Feeder addon?</b> Yes, PtTracker does not make any changes to your setup or files.
-<br><br>
-<b>Are all base currencies are supported?</b> Yes, PtTracker will work on any base currencies that ProfitTrailer supports Ex. BTC, ETH, USDT and BNB.
-<br><br>
-<b>Are all exchanges are supported?</b> Yes, PtTracker will work on any extange that ProfitTrailer supports.
-<br><br>
-<b>Is my data safe?</b> Yes, PtTracker is simply an html file and works by reading the ProfitTrailerData.json file created by ProfitTrailer. Since this file only contains bot trading data, PtTracker is safe, secure, and does not access or use any api keys or other sensitive information.
-<br><br>
-<b>Can I use PtTracker on more than one bot/exchange?</b> Your PtTracker license key will work for as many bots as you want as long as they are on the same IP address. If you use bots on different machines, a license key will need to be purchased for each machine. (Note: Your license key has single user access. If you give it to someone else, your tracker will no longer work.)
-<br><br>
-<b>Is PtTracker officially endorsed by ProfitTrailer?</b> Not yet! However, we hope to make this happen soon. Hint hint @ProfitTrailer ;)
-<br><br>
-<b>Do you have any other questions?</b> Join our Discord and we will be happy to help you in the <b><a href="https://discord.gg/Er6UfJm" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">#pt-tracker-support</a></b>
+<br>
+<details>
+	<summary><b>Are all base currencies are supported?</b></summary>
+	Yes, PtTracker will work on any base currencies that ProfitTrailer supports Ex. BTC, ETH, USDT and BNB.
+</details>
+<br>
+<details>
+	<summary><b>Are all exchanges are supported?</b></summary>
+	Yes, PtTracker will work on any extange that ProfitTrailer supports.
+</details>
+<br>
+<details>
+	<summary><b>Is my data safe?</b></summary> 
+	Yes, PtTracker is simply an html file and works by reading the ProfitTrailerData.json file created by ProfitTrailer. Since this file only contains bot trading data, PtTracker is safe, secure, and does not access or use any api keys or other sensitive information.
+</details>
+<br>
+<details>
+	<summary><b>Can I use PtTracker on more than one bot/exchange?</b></summary>
+	Your PtTracker license key will work for as many bots as you want as long as they are on the same IP address. If you use bots on different machines, a license key will need to be purchased for each machine. (Note: Your license key has single user access. If you give it to someone else, your tracker will no longer work.)
+</details>
+<br>
+<details>
+	<summary><b>Is PtTracker officially endorsed by ProfitTrailer?</b></summary>
+	Not yet! However, we hope to make this happen soon. Hint hint @ProfitTrailer ;)
+</details>
+<br>
+<details>
+	<summary><b>Do you have any other questions?</b></summary>
+	Join our Discord and we will be happy to help you in the <b><a href="https://discord.gg/Er6UfJm" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">#pt-tracker-support</a></b>
+</details>
 
 
 <h1 id="#purchasing">How To Purchase</h1>
