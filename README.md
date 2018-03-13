@@ -1,8 +1,5 @@
-<a href="http://pttracker.net/"><img src="http://ptTracker.net/PtTrackerLogo.png"></a>
-<br>
-<b><font color="#999">The Premiere Real-Time ProfitTrailer Tracking Addon</font></b>
-<p><a href="https://discord.gg/Er6UfJm"><img src="https://vignette.wikia.nocookie.net/rblxofftopic/images/b/bd/Discord_logo_svg.png/revision/latest/scale-to-width-down/640?cb=20170707023932" height="30"></p>
-<b><a href="http://pttracker.net/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
+<a href="https://pttracker.net/"><img src="http://ptTracker.net/PtTrackerLogo.png"></a>
+<a href="https://discord.gg/Er6UfJm"><img src="https://vignette.wikia.nocookie.net/rblxofftopic/images/b/bd/Discord_logo_svg.png/revision/latest/scale-to-width-down/640?cb=20170707023932" height="30">
 
 <b><a href="https://discord.gg/Er6UfJm" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Support Discord</a></b>
 
