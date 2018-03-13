@@ -1,7 +1,3 @@
-<a href="https://pttracker.net/"><img src="https://ptTracker.net/PtTrackerLogo.png"></a>
-
-<a href="https://discord.gg/Er6UfJm"><img src="https://vignette.wikia.nocookie.net/rblxofftopic/images/b/bd/Discord_logo_svg.png/revision/latest/scale-to-width-down/640?cb=20170707023932" height="50">
-
-<h1>The Information On This Page Has Moved!</h1>
+<h1>The Information Page Has Moved!</h1>
 
 <h1>https://github.com/bTayFla/PtTracker/wiki</h1>
