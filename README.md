@@ -1,6 +1,6 @@
 <a href="http://pttracker.net/"><img src="http://ptTracker.net/PtTrackerLogo.png" style="height:30px;"></a>
 <br>
-<b><font color="#999">PtTracker - The Ultimate ProfitTrailer Tracking Add-on</font></b>
+<b><font color="#999">PtTracker - The Ultimate ProfitTrailer Tracking Solution</font></b>
 
 <b><a href="http://pttracker.net/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Official Website</a></b>
 
