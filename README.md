@@ -1,4 +1,4 @@
-<a href="http://pttracker.net/"><img src="http://ptTracker.net/PtTrackerLogo.png" height="300"></a>
+<a href="http://pttracker.net/"><img src="http://ptTracker.net/PtTrackerLogo.png" height="250"></a>
 <br>
 <b><font color="#999">The Premiere Real-Time ProfitTrailer Tracking Addon</font></b>
 
