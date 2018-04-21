@@ -7,5 +7,5 @@
 <b><font color="#999">The Premiere ProfitTrailer Tracking Addon</font></b>
 
 <div align="center">  
-<a href="https://discord.gg/Er6UfJm"><img src="https://vignette.wikia.nocookie.net/rblxofftopic/images/b/bd/Discord_logo_svg.png/revision/latest/scale-to-width-down/640?cb=20170707023932" height="30"></div>
+<a href="https://discord.gg/K9a37Vh"><img src="https://vignette.wikia.nocookie.net/rblxofftopic/images/b/bd/Discord_logo_svg.png/revision/latest/scale-to-width-down/640?cb=20170707023932" height="30"></div>
 
