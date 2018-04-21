@@ -1,4 +1,4 @@
-<h1>The Information Page Has Moved!</h1>
+<h2>Use the link below for setup guides!</h2>
 
 <h1>https://github.com/bTayFla/PtTracker/wiki</h1>
 
